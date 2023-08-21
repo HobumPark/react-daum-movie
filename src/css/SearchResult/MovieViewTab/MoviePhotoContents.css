@@ -1,0 +1,26 @@
+
+
+#movie-photo-contents{
+    width:95%;
+    height:95%;
+    margin:0 auto;
+    background-color: lightcoral;
+}
+#movie-photo-contents>#movie-photo-contents-movie{
+    width:100%;
+    height:500px;
+    background-color: pink;
+}
+#movie-photo-contents-movie>h1{
+    font-size:24px;
+    background-color: blanchedalmond;
+}
+#movie-photo-contents>#movie-photo-contents-photo{
+    width:100%;
+    height:500px;
+    background-color: palegreen;
+}
+#movie-photo-contents-photo>h1{
+    font-size:24px;
+    background-color: blanchedalmond;    
+}
