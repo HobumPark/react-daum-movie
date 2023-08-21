@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+다음 영화 검색 사이트 클론
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+메인 화면 - 슬라이드, 아코디언
 
-## Available Scripts
+로그인창 (카카오 API사용)
 
-In the project directory, you can run:
+검색결과 (페이지네이션)
 
-### `npm start`
+상세보기
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+댓글쓰기
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![GOMCAM 20230821_1430500421](https://github.com/HobumPark/react-daum-movie/assets/25094629/efd21ffa-4848-43bd-a6f8-76d164bd0d74)
+![GOMCAM 20230821_1430460432](https://github.com/HobumPark/react-daum-movie/assets/25094629/e93c2ffd-3900-4727-8927-e10f01125058)
+![GOMCAM 20230821_1430410848](https://github.com/HobumPark/react-daum-movie/assets/25094629/6b63ecf6-fa34-4671-aab0-7fdfc06a9ab5)
+![GOMCAM 20230821_1430370581](https://github.com/HobumPark/react-daum-movie/assets/25094629/25487412-18ee-4ba9-9bd4-28f7dba25c46)
+![GOMCAM 20230821_1427230247](https://github.com/HobumPark/react-daum-movie/assets/25094629/dbb6abbd-965e-45f1-afab-65210d494fee)
+![GOMCAM 20230821_1427190186](https://github.com/HobumPark/react-daum-movie/assets/25094629/b443da40-cd57-4107-a685-447f6bf958c7)
+![GOMCAM 20230821_1424560905](https://github.com/HobumPark/react-daum-movie/assets/25094629/cbfc547c-6723-4e60-a835-1a138ff5a32d)
+![GOMCAM 20230821_1424480133](https://github.com/HobumPark/react-daum-movie/assets/25094629/893b374d-ae68-4b19-8d1b-f937b4661ea5)
+![GOMCAM 20230821_1424420614](https://github.com/HobumPark/react-daum-movie/assets/25094629/78e2e5c7-5bc8-43bc-a3aa-65bc21caa4c2)
+![GOMCAM 20230821_1423360982](https://github.com/HobumPark/react-daum-movie/assets/25094629/184d9e3a-b367-434a-86c3-31824d911029)
+![GOMCAM 20230821_1423140451](https://github.com/HobumPark/react-daum-movie/assets/25094629/c7f9386c-9ea7-4c1b-90bc-2fbc8bda6aaa)
+![GOMCAM 20230821_1423040460](https://github.com/HobumPark/react-daum-movie/assets/25094629/4302a1b5-0285-4d4e-a41f-49f2bbc851a4)
+![GOMCAM 20230821_1430580314](https://github.com/HobumPark/react-daum-movie/assets/25094629/c1ced19e-73a7-4980-93e4-ce50d10eb940)
